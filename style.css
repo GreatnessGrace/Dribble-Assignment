@@ -1,0 +1,22 @@
+.dropdown:hover .dropdown-menu{
+    display: block;   
+        background-color:#990000;     
+}
+#footer{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+
+}
+
+
+
+.dropdown:hover .dropdown-menu{
+    display: block;   
+        background-color:#990000;     
+}
+ 
+
+.card{
+    border: 0;
+}
